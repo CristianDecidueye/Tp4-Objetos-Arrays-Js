@@ -1,4 +1,4 @@
-// Definición de la clase Producto
+// Definición de la clase Producto.
 class Producto {
   // Constructor para inicializar código, nombre y precio
   constructor(codigoParam, nombreParam, precioParam) {
