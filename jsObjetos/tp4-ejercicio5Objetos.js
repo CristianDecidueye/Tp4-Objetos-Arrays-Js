@@ -50,3 +50,4 @@ console.log(`Es mayor de edad: ${personaEjemplo.esMayorDeEdad()}`);
 personaEjemplo.mostrarDatos();
 personaEjemplo.mostrarGeneracion();
 
+// Se muestra en consola el resultado.
