@@ -19,7 +19,11 @@ class Persona {
 }
 
 // Crear dos objetos de la clase Persona
-const persona1 = new Persona("Cristian", 25, "Estudiante de Rolling Code School");
+const persona1 = new Persona(
+  "Cristian",
+  25,
+  "Estudiante de Rolling Code School"
+);
 const persona2 = new Persona("Jony", 30, "Mentor de Rolling Code School");
 
 // Llamar a los métodos de saludar y despedirse para cada persona
